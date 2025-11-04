@@ -9,6 +9,9 @@ openai = "*"
 
 [dev-packages]
 pylint = "*"
+mypy = "*"
+isort = "*"
+black = "*"
 
 [requires]
 python_version = "3.12"

@@ -8,6 +8,11 @@ __pycache__/
 *.pyd
 *.so
 
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
 # Virtual environments
 venv/
 .env/
